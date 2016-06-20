@@ -1,0 +1,7 @@
+.oneven{
+    background-color: darkslategrey;
+    color: white;
+}
+table, th, td {
+    border: 2px solid black;
+}

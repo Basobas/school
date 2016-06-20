@@ -1,0 +1,54 @@
+{
+  "albums": [
+    {
+      "title": "titel1",
+      "genre": "genre1",
+      "tracks": "tracks1"
+    },
+    {
+      "title": "titel2",
+      "genre": "genre2",
+      "tracks": "tracks2"
+    },
+    {
+      "title": "titel3",
+      "genre": "genre3",
+      "tracks": "tracks3"
+    },
+    {
+      "title": "titel4",
+      "genre": "genre4",
+      "tracks": "tracks4"
+    },
+    {
+      "title": "titel5",
+      "genre": "genre5",
+      "tracks": "tracks5"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

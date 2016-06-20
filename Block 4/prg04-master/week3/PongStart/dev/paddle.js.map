@@ -1,0 +1,1 @@
+{"version":3,"file":"paddle.js","sourceRoot":"","sources":["paddle.ts"],"names":["Paddle","Paddle.constructor","Paddle.move"],"mappings":"AAAA;IAEIA;IAEAC,CAACA;IAEMD,qBAAIA,GAAXA;IAEAE,CAACA;IACLF,aAACA;AAADA,CAACA,AATD,IASC"}
